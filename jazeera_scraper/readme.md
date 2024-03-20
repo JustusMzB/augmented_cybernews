@@ -1,6 +1,7 @@
-# Jazeera Scraper
 
-This project contains the code for scraping articles from Al Jazeera.
+# Al Jazeera Scraper
+
+This project contains the code for scraping articles from Gurdien.
 
 ## Setup
 
